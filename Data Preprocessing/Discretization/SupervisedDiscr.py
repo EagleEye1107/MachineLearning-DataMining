@@ -3,10 +3,6 @@
     because it's for educational purposes to be able to understand each step of the method when implemented manually on benchmarks
 '''
 
-
-from sympy import intervals
-
-
 def SupervisedDiscr(list, n):
     # Step-0 : Sort our list
     list.sort()
